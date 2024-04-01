@@ -26,7 +26,7 @@ const items = [
     color: "from-violet-300 to-purple-300",
     title: "Admin Dashboard Web App",
     desc: "This is a Frontend web app dashboard built through ReactJS",
-    img: "",
+    img: "/admin.png",
     link: "https://gilded-kheer-748bd4.netlify.app/",
   }
 ];
