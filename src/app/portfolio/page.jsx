@@ -28,6 +28,14 @@ const items = [
     desc: "This is a Frontend web app dashboard built through ReactJS",
     img: "/admin.png",
     link: "https://gilded-kheer-748bd4.netlify.app/",
+  },
+  {
+    id: 4,
+    color: "from-purple-300 to-pink-300",
+    title: "Car Showcase Web App",
+    desc: "This is a Frontend web app built through Next.JS and Server-side rendering",
+    img: "",
+    link: "https://spiffy-pony-543a97.netlify.app/"
   }
 ];
 
