@@ -34,7 +34,7 @@ const items = [
     color: "from-purple-300 to-pink-300",
     title: "Car Showcase Web App",
     desc: "This is a Frontend web app built through Next.JS and Server-side rendering",
-    img: "",
+    img: "/car-showcase.jpg",
     link: "https://spiffy-pony-543a97.netlify.app/"
   }
 ];
