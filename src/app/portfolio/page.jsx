@@ -7,7 +7,7 @@ import { useRef } from "react";
 const items = [
   {
     id: 1,
-    color: "from-orange-300 to-red-300",
+    color: "from-red-300 to-blue-300",
     title: "Threads Application",
     desc: "A full-stack Threads application built with NextJS 14, TypeScript, MongoDB, Tailwind CSS, Clerk, Zod and Shadcn UI.",
     img: "https://private-user-images.githubusercontent.com/151519281/293174555-a9cd1088-968b-4b1d-b21a-f5f97d0c202b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4MTg2MzEsIm5iZiI6MTcyMDgxODMzMSwicGF0aCI6Ii8xNTE1MTkyODEvMjkzMTc0NTU1LWE5Y2QxMDg4LTk2OGItNGIxZC1iMjFhLWY1Zjk3ZDBjMjAyYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxMlQyMTA1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMDI3ZDg2OGFjMGJhZDVlYTE2NGU0NGRiYmRkZTcxMWU0ZDk4NWNjNzBmZjNiZWZiYjYzOGQ4NjQ3MWM4MWYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.hjleHJZkubTx2qFFUHGrQbQwZiHnCMScmnNC2pef4V4",
@@ -15,7 +15,7 @@ const items = [
   },
   {
     id: 2,
-    color: "from-red-300 to-blue-300",
+    color: "from-blue-300 to-violet-300",
     title: "Server Side App",
     desc: "Server Side Application built with NextJS 14, Server Actions, Infinite Scroll & Framer Motion Animations.",
     img: "/anime.png",
@@ -23,7 +23,7 @@ const items = [
   },
   {
     id: 3,
-    color: "from-blue-300 to-violet-300",
+    color: "from-violet-300 to-purple-300",
     title: "Interactive Map",
     desc: "This is an interactive map web application, strictly made through NextJS. This is a frontend application.",
     img: "/wp7525652.jpg",
@@ -31,7 +31,7 @@ const items = [
   },
   {
     id: 4,
-    color: "from-violet-300 to-purple-300",
+    color: "from-purple-300 to-pink-300",
     title: "Admin Dashboard Web App",
     desc: "This is a Frontend web app dashboard built through ReactJS",
     img: "/admin.png",
@@ -39,7 +39,7 @@ const items = [
   },
   {
     id: 5,
-    color: "from-purple-300 to-pink-300",
+    color: "from-pink-300 to-peach-300",
     title: "Car Showcase Web App",
     desc: "This is a Frontend web app built through Next.JS and Server-side rendering",
     img: "/car-showcase.jpg",
