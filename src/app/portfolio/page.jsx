@@ -7,6 +7,14 @@ import { useRef } from "react";
 const items = [
   {
     id: 1,
+    color: "from-orange-300 to-red-300",
+    title: "Threads Application",
+    desc: "A full-stack Threads application built with NextJS 14, TypeScript, MongoDB, Tailwind CSS, Clerk, Zod and Shadcn UI.",
+    img: "",
+    link: "https://threads-app-gamma-three.vercel.app/",
+  },
+  {
+    id: 2,
     color: "from-red-300 to-blue-300",
     title: "Server Side App",
     desc: "Server Side Application built with NextJS 14, Server Actions, Infinite Scroll & Framer Motion Animations.",
@@ -14,7 +22,7 @@ const items = [
     link: "https://anime-vault-dusky-two.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     color: "from-blue-300 to-violet-300",
     title: "Interactive Map",
     desc: "This is an interactive map web application, strictly made through NextJS. This is a frontend application.",
@@ -22,7 +30,7 @@ const items = [
     link: "https://interactive-map-application.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     color: "from-violet-300 to-purple-300",
     title: "Admin Dashboard Web App",
     desc: "This is a Frontend web app dashboard built through ReactJS",
@@ -30,7 +38,7 @@ const items = [
     link: "https://gilded-kheer-748bd4.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     color: "from-purple-300 to-pink-300",
     title: "Car Showcase Web App",
     desc: "This is a Frontend web app built through Next.JS and Server-side rendering",
