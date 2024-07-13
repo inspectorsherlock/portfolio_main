@@ -10,7 +10,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "Threads Application",
     desc: "A full-stack Threads application built with NextJS 14, TypeScript, MongoDB, Tailwind CSS, Clerk, Zod and Shadcn UI.",
-    img: "",
+    img: "/Threads Logo.png",
     link: "https://threads-app-gamma-three.vercel.app/",
   },
   {
