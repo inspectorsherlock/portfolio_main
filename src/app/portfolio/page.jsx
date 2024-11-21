@@ -16,6 +16,14 @@ const items = [
   {
     id: 2,
     color: "from-blue-300 to-violet-300",
+    title: "Dropbox Clone Web Application",
+    desc: "A Dropbox Clone Web Application - Made with NextJS, Clerk, Firebase, ShadCN, CRUD and TypeScript",
+    img: "",
+    link: "https://drop-box-clone-28px-oyf4znh9z-inspectorsherlocks-projects.vercel.app/"
+  },
+  {
+    id: 2,
+    color: "from-violet-300 to-purple-300",
     title: "Server Side App",
     desc: "Server Side Application built with NextJS 14, Server Actions, Infinite Scroll & Framer Motion Animations.",
     img: "/anime.png",
@@ -23,7 +31,7 @@ const items = [
   },
   {
     id: 3,
-    color: "from-violet-300 to-purple-300",
+    color: "from-purple-300 to-pink-300",
     title: "Interactive Map",
     desc: "This is an interactive map web application, strictly made through NextJS. This is a frontend application.",
     img: "/wp7525652.jpg",
@@ -31,7 +39,7 @@ const items = [
   },
   {
     id: 4,
-    color: "from-purple-300 to-pink-300",
+    color: "from-pink-300 to-peach-300",
     title: "Admin Dashboard Web App",
     desc: "This is a Frontend web app dashboard built through ReactJS",
     img: "/admin.png",
@@ -39,7 +47,7 @@ const items = [
   },
   {
     id: 5,
-    color: "from-pink-300 to-peach-300",
+    color: "from-peach-300 to-yellow-300",
     title: "Car Showcase Web App",
     desc: "This is a Frontend web app built through Next.JS and Server-side rendering",
     img: "/car-showcase.jpg",
