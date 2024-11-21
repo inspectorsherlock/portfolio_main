@@ -16,7 +16,7 @@ const items = [
   {
     id: 2,
     color: "from-blue-300 to-violet-300",
-    title: "Dropbox Clone Web Application",
+    title: "Dropbox Clone Web App",
     desc: "A Dropbox Clone Web Application - Made with NextJS, Clerk, Firebase, ShadCN, CRUD and TypeScript",
     img: "/dropbox image.png",
     link: "https://drop-box-clone-28px-oyf4znh9z-inspectorsherlocks-projects.vercel.app/"
