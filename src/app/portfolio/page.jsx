@@ -10,7 +10,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "Facebook Clone Application",
     desc: "A full-stack Facebook Clone web application built with NextJS 15, TypeScript, AWS DynamoDB, Tailwind CSS.",
-    img: "/Threads Logo.png",
+    img: "/Facebook_Logo_2023.png",
     link: "https://facebook-clone-123.vercel.app/",
   },
   {
