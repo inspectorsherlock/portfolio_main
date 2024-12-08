@@ -8,10 +8,10 @@ const items = [
   {
     id: 1,
     color: "from-red-300 to-blue-300",
-    title: "Threads Application",
-    desc: "A full-stack Threads application built with NextJS 14, TypeScript, MongoDB, Tailwind CSS, Clerk, Zod and Shadcn UI.",
+    title: "Facebook Clone Application",
+    desc: "A full-stack Facebook Clone web application built with NextJS 15, TypeScript, AWS DynamoDB, Tailwind CSS.",
     img: "/Threads Logo.png",
-    link: "https://threads-app-gamma-three.vercel.app/",
+    link: "https://facebook-clone-123.vercel.app/",
   },
   {
     id: 2,
